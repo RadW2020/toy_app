@@ -1,24 +1,8 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Toy App
 
-Things you may want to cover:
+This is the second application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [RadW2020](https://radw2020.github.io/). 
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
